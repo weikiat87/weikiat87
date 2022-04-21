@@ -1,4 +1,5 @@
 ### Hi there 👋
+---
 
 <!--
 **weikiat87/weikiat87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+
+### Languages
+
+![javascript]({https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white})
+
+---
+## Github Stats
+[![Wei Kiat's GitHub stats](https://github-readme-stats.vercel.app/api?username=weikiat87&show_icons=true&theme=gruvbox&count_private=true)](https://github-readme-stats.vercel.app)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=weikiat87&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
